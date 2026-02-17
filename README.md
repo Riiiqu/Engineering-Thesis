@@ -2,7 +2,6 @@
 
 Projekt zrealizowany w ramach pracy inżynierskiej na kierunku Informatyka - Inżynieria Systemów Informatycznych (UWM Olsztyn). Praca skoncentrowana jest na analizie zmian transkryptomicznych wywołanych pęcherzykami zewnątrzkomórkowymi (EV) z uwzględnieniem dynamiki czasu.
 
-Streszczenie
 Celem pracy było stworzenie skryptu w języku R do analizy dużych zbiorów danych
 genetycznych. Projekt polegał na stworzeniu kompletnego potoku przetwarzania danych od ich
 wczytania, oczyszczenia, przez normalizację, aż po zaawansowaną analizę statystyczną i
@@ -19,7 +18,6 @@ skuteczność i precyzję napisanego kodu w zastosowaniach bioinformatycznych.
 # Engineering-Thesis - ENG
 This project was developed as part of an Engineering Thesis in Computer Science at the University of Warmia and Mazury in Olsztyn. It focuses on analyzing transcriptomic changes induced by extracellular vesicles (EVs) while accounting for time dynamics.
 
-Abstract
 The objective of this thesis was to develop an R script for the analysis of large-scale
 genetic datasets. The project involved designing a comprehensive data processing pipeline,
 ranging from data loading and cleaning, through normalization, to advanced statistical analysis
